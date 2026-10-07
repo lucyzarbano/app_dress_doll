@@ -1,5 +1,13 @@
 This is an Expo/React Native mobile application. Prioritize mobile-first patterns, performance, and cross-platform compatibility.
 
+## Product
+
+- The app is a child-friendly dress-up game called "Vesti la Bambola".
+- Keep interactions visual, forgiving, offline-first, and easy to use with small hands.
+- Use Italian for all user-facing copy.
+- Prefer simple vector-like shapes and reusable components over remote assets.
+- Do not add accounts, advertising, analytics, or network access unless explicitly requested.
+
 ## Expo has changed — do not trust your training data
 
 Expo ships breaking changes every SDK release. APIs you remember are likely renamed, moved, or removed. Before writing any code that touches an Expo, EAS, or React Native API:
